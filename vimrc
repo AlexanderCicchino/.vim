@@ -49,4 +49,8 @@ iab unsigne unsigned
 "change typo to int
 iab dint int
 "shortcut for unsigned
-iab uint unsigned
+iab uint unsigned int
+"shortcut for(unsigned int ) definition
+iab foruint for(unsigned int ; < ;++){}
+"shortcut for(unsigned int ) definition
+iab forint for(int ; < ;++){}
